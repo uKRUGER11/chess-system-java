@@ -22,8 +22,9 @@ Abra a pasta do projeto entre na pasta *bin* abra na opção *git BASH Here*. Di
 
 Após isso a partida irá começar, desta forma: 
 
-<img src="re.png">
-
+<div align="center">
+<img src="re.png" width=500>
+</div>
 As peças pretas estão da cor amarela, pois a cor de fundo do terminal do git é preta, assim foi necessário essa alteração para melhorar a visibilidade da partida.
 
 ## Tecnologias usadas
@@ -31,8 +32,8 @@ As peças pretas estão da cor amarela, pois a cor de fundo do terminal do git �
 Nessa aplicação foi utilizado apenas a linguagem Java em uma interface do Git. Utilizando técnicas da POO (Programação Orientada a Objetos), trabalhando com Herança, Polimorfiso, Exceções personalizadas etc. 
 
 <p align="center">
-<img src="java-logo.png" width= 70> 
-<img src="Git-Icon-1788C.png" width= 70>
+<img src="java-logo.png" width=70> 
+<img src="Git-Icon-1788C.png" width=70>
 </p>
 
 
@@ -51,14 +52,17 @@ Quando a partida se inicia as peças brancas devem efetuar a primeira jogada. Ne
 
 Para conseguir mover as peças é necessário digitar a coluna e a linha desejada, desta forma: c1, d4, e8 etc.
 
+<div align="center">
 <img src="c2.png">
+</div>
 
 Após digitado a posição da peça escolhida é mostrado na tela as possibilidades que o jogador tem para mover a sua peça.
 No xadrez cada peça tem uma possibilidade de movimento diferente, assim depende da peça que o jogador escolher. 
 
 
+<div align="center">
 <img src="poss.png">
-
+</div>
 
 Além disso caso o jogador fizer uma jogada que fuja das regras do xadrez ele será notificado, tendo a possibilidade de efetuar novamente a jogada, apertando *Enter*.
 
@@ -94,9 +98,9 @@ A regra check consiste na ameaça do rei, ou seja a peça **K**ing, de uma ou ma
 
 Caso o jogador faça uma jogada que o mantenha em check ele deve refazer a jogada para assim continuar a partida.
 
-
+<div align="center">
 <img src="ch.png">
-
+</div>
 
 ### CheckMate
 
